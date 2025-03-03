@@ -229,8 +229,8 @@ In addition to the processed login data, the system sends metrics and analytics 
 
 ```json
 {
-  "error": "Missing required field: user_id",
-  "user_id": "unknown",
+  "error": "<error_message>",
+  "user_id": "<user_id>",
   "device_id": "593-47-5928",
   "timestamp": "1694479551"
 }
