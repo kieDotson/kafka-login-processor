@@ -41,7 +41,7 @@ The system consists of the following components:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:kieDotson/kafka-login-processor.git
    cd kafka-login-processor
    ```
 
